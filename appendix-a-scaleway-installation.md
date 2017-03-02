@@ -8,7 +8,7 @@ Scaleway offers a number of servers.  At time of writing it is possible to run a
 
 **Log in to the machine**
 
-To log into a scaleway server locate the IP addres and ssh to root@ip-address
+To log into a scaleway server locate the IP addres and ssh to root@ip-address.  This will log you in as root.
 
 
 
