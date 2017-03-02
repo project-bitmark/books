@@ -6,3 +6,9 @@ Scaleway is an example of a Cloud server well suited to run Bitmark Storage.  Be
 
 Scaleway offers a number of servers.  At time of writing it is possible to run a server with unmetered bandwidth, 50 GB of storage and running Ubuntu 16.04 for 2.99 EUR per month.  This is the target used in this guide.
 
+**Log in to the machine**
+
+To log into a scaleway server locate the IP addres and ssh to root@ip-address
+
+
+
