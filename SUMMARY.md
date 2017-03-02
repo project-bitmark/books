@@ -2,5 +2,5 @@
 
 * [Bitmark Storage](README.md)
 * [Bitmark Passport](chapter1.md)
-* Installation
+* [Installation](installation.md)
 
