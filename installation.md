@@ -66,12 +66,10 @@ This is where you want to host files. Perhaps use ~/data/
 
 There are two ways. 1 is locally
 
-    `openssl genrsa 2048 
-    >
-     ./privkey.pem`
-    `openssl req -new -x509 -nodes -sha256 -days 3650 -key ./privkey.pem -subj '/CN=*.localhost' 
-    >
-     ./fullchain.pem`
+```
+openssl genrsa 2048 > ./privkey.pem
+openssl req -new -x509 -nodes -sha256 -days 3650 -key ./privkey.pem -subj '/CN=*.localhost' > ./fullchain.pem
+```
 
 The second way is to use [letsencrypt](https://letsencrypt.org/)
 
