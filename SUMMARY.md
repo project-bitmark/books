@@ -1,5 +1,6 @@
 # Summary
 
 * [Bitmark Storage](README.md)
-* [First Chapter](chapter1.md)
+* [Bitmark Passport](chapter1.md)
+* Installation
 
