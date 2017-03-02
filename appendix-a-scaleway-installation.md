@@ -10,5 +10,9 @@ Scaleway offers a number of servers.  At time of writing it is possible to run a
 
 To log into a scaleway server locate the IP addres and ssh to root@ip-address.  This will log you in as root.
 
+**Create a User**
+
+It is not desirable to run as root, so it is possible to add a user, ubuntu is selected here.
+
 
 
