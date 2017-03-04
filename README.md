@@ -8,5 +8,5 @@ Integration with the bitmark currency will also enable those that share content 
 
 Next chapter : [Bitmark Passport](/bitmark-passport.md)
 
-
+![](/assets/infographic.png)
 
