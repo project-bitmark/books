@@ -26,5 +26,5 @@ This documentation is a work in progress expected to be complete by final Beta.
 
 See channel \#testing on slack for more info
 
-Next chapter : [Installation](/chapter1.md)
+Next chapter : [Installation](https://project-bitmark.gitbooks.io/bitmark-storage/content/installation.html)
 
