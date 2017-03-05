@@ -28,3 +28,5 @@ See channel \#testing on slack for more info
 
 Next chapter : [Installation](https://project-bitmark.gitbooks.io/bitmark-storage/content/installation.html)
 
+![](/assets/ui_front3_1024.png)
+
