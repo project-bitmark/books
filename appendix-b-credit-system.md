@@ -11,8 +11,21 @@ sudo npm install -g webcredits
 **Set up MySql**
 
 ```
-sudo npm install -g webcredits
+sudo apt-get install mysql
 ```
+
+You will need an sql user
+
+```
+sudo apt-get install mysql
+sudo mysql -u root
+
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
+FLUSH PRIVILEGES;
+```
+
+
 
 
 
