@@ -27,5 +27,3 @@ FLUSH PRIVILEGES;
 
 **Creating a Wallet**
 
-
-
