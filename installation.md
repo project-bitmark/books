@@ -73,6 +73,10 @@ openssl req -new -x509 -nodes -sha256 -days 3650 -key ./privkey.pem -subj '/CN=*
 
 The second way is to use [letsencrypt](https://letsencrypt.org/)
 
+```
+sudo letsencrypt -d domain.com certonly
+```
+
 ## Issue tracker
 
 [https://waffle.io/project-bitmark/bitmark-storage](https://waffle.io/project-bitmark/bitmark-storage)
