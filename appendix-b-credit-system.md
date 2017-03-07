@@ -25,5 +25,7 @@ GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
+**Creating a Wallet**
+
 
 
