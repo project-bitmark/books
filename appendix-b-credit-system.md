@@ -27,5 +27,9 @@ FLUSH PRIVILEGES;
 
 **Creating a Decentralized Wallet**
 
-It helps to create a wallet in order for user to pay funds.  An ideal way to do
+It helps to create a wallet in order for user to pay funds.  The excellent mneumonic code generator is an excellent way to do this
+
+https://iancoleman.github.io/bip39/
+
+
 
