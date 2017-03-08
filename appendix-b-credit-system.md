@@ -1,4 +1,4 @@
-# Credits System
+# Credit System
 
 The following is an example of a credits system that provisions users with 1GB each.  At time of writing the storage is priced roughly at cost at 1 Bitmark per GB / month, equating also to roughly 1 mark for a GB/h.
 
@@ -25,5 +25,7 @@ GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
-**Creating a Wallet**
+**Creating a Decentralized Wallet**
+
+It helps to create a wallet in order for user to pay funds.  An ideal way to do
 
