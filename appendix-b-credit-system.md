@@ -1,4 +1,4 @@
-# Credit System
+# An ideal way to doCredit System
 
 The following is an example of a credits system that provisions users with 1GB each.  At time of writing the storage is priced roughly at cost at 1 Bitmark per GB / month, equating also to roughly 1 mark for a GB/h.
 
@@ -29,7 +29,9 @@ FLUSH PRIVILEGES;
 
 It helps to create a wallet in order for user to pay funds.  The excellent mneumonic code generator is an excellent way to do this
 
-https://iancoleman.github.io/bip39/
+[https://iancoleman.github.io/bip39/](https://iancoleman.github.io/bip39/)
+
+
 
 
 
