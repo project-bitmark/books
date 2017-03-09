@@ -37,5 +37,7 @@ Keep the private key safe or on a remote machine.
 
 The public key can be published on your storage system.
 
+**Creating a Decentralized Wallet**
 
+From either the public key or the private key user deposit addresses can be generated.  The safest way to do this is using the public key.
 
