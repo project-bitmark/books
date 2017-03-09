@@ -31,7 +31,11 @@ It helps to create a wallet in order for user to pay funds.  The excellent mneum
 
 [https://iancoleman.github.io/bip39/](https://iancoleman.github.io/bip39/)
 
+First create a private seed \(preferably on a secure machine\) and use it to generate a public and private HD key.
 
+Keep the private key safe or on a remote machine.
+
+The public key can be published on your storage system.
 
 
 
