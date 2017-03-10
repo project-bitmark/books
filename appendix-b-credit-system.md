@@ -41,3 +41,7 @@ The public key can be published on your storage system.
 
 From either the public key or the private key user deposit addresses can be generated.  The safest way to do this is using the public key.
 
+The suggested mentod is to create a URI for each user, then use that to derive a unique bitmark address from the public key / URI pair.  When that account has deposits, then credits can be added to the system.
+
+
+
