@@ -43,5 +43,9 @@ From either the public key or the private key user deposit addresses can be gene
 
 The suggested mentod is to create a URI for each user, then use that to derive a unique bitmark address from the public key / URI pair.  When that account has deposits, then credits can be added to the system.
 
+The following code can do this:
+
+https://github.com/quantumpayments/hdwallet/blob/master/lib/util.js
+
 
 
