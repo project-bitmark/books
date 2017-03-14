@@ -18,7 +18,7 @@ It is likely more providers will be added to this list, over time.
 
 Notes on key generation: [https://gist.github.com/elf-pavlik/e19d0585c1883f046298e60278050984](https://gist.github.com/elf-pavlik/e19d0585c1883f046298e60278050984)
 
-#### Hosting your own decentralized bitmark passport
+#### Option 2: Hosting your own decentralized bitmark passport
 
 This is a more advanced option.  You can host your passport on your own home page, or use bitmark storage to do so, or even both!
 
