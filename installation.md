@@ -1,10 +1,12 @@
 # Installation
 
-## Audience
-
 Currently aimed at people running their own cloud storage or home storage that are able to understand running a server or follow instructions.
 
-## Pre requisites
+---
+
+### 1. Pre requisites
+
+Pre requisites
 
 * A server with some disk space is required to run bitmark storage.
 
@@ -14,13 +16,13 @@ Currently aimed at people running their own cloud storage or home storage that a
 
 * \(optional\) having your own domain is an advantage
 
-## Instructions
+---
 
-### Instructions to run bitmark storage
+### 2. Installing bitmark storage
 
-1. Clone the bitmark storage repo
+Clone the bitmark storage repo
 
-   `git clone https://github.com/project-bitmark/bitmark-storage && cd bitmark-storage`
+1. `git clone https://github.com/project-bitmark/bitmark-storage && cd bitmark-storage`
 
 2. run
 
@@ -42,7 +44,11 @@ Currently aimed at people running their own cloud storage or home storage that a
 
    `node bin/solid -v start`
 
-\(Optional\)
+---
+
+### 3. Optional features
+
+
 
 1. use pm2 to ensure the process restarts automatically
 
@@ -53,6 +59,10 @@ Currently aimed at people running their own cloud storage or home storage that a
 4. \(optional\) CNAME a domain to your storage server
 
 5. \(optional\) remove SSL warnings using letsencrypt
+
+---
+
+### 4. Notes
 
 #### Answering the init questions:
 
